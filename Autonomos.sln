@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autonomos.CSharp", "Autonomos.CSharp.csproj", "{122F4123-9699-4700-B100-6212D1D903DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122F4123-9699-4700-B100-6212D1D903DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122F4123-9699-4700-B100-6212D1D903DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122F4123-9699-4700-B100-6212D1D903DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122F4123-9699-4700-B100-6212D1D903DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
